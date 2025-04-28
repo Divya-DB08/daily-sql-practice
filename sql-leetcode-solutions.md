@@ -14,3 +14,9 @@ AND recyclable = 'Y'
 ```markdown
 Select name from Customer  where referee_id != 2 OR referee_id is null
 ````
+
+
+#### **584. Find Customer Referee**
+```markdown
+Select name from Customer  where referee_id != 2 OR referee_id is null
+````
